@@ -1,0 +1,9 @@
+.custom_display{
+    display: none;
+}
+.error{
+    color: red;
+}
+body{
+    background: gray;
+}
